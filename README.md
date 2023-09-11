@@ -1,7 +1,7 @@
 # Misc
 
 ```diff
-local normal = loadstring(https://raw.githubusercontent.com/Lucifer4381/ui-normal-hub/main/scr')))()
+local normal = loadstring('https://raw.githubusercontent.com/Lucifer4381/ui-normal-hub/main/scr')))()
 ```
 
 # Create Window
